@@ -1,7 +1,50 @@
 body {
-	font-family: 'Open Sans', sans-serif;
+    /*font-family: 'Open Sans', sans-serif;*/
+	font-family: 'Helvetica Neue', sans-serif;
+    /*background-color: #FFFCF9;*/
+    color: #2C8C99;
+    text-align: center;
 }
 
 .bkcol {
-	background-color: #F0386B;
+	background-color: #06D6A0;
+}
+
+h2,h1 {
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+p {
+    color: #EF476F;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.header {
+    margin-top: 50px;
+}
+
+.fa {
+    margin-left:12px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #2C8C99;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #2C8C99;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #2C8C99;
+}
+
+a:active {
+    text-decoration: none;
+    color: #2C8C99;
 }
