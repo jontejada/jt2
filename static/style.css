@@ -18,7 +18,7 @@ h2,h1 {
 p {
     color: #EF476F;
     font-weight: 100;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 }
 
 .header {
@@ -47,4 +47,36 @@ a:hover {
 a:active {
     text-decoration: none;
     color: #2C8C99;
+}
+
+#hi {
+    position: absolute;
+    right:0;
+    top:0;
+    width:300px;
+}
+
+@media screen and (min-width: 700px) {
+    #hi {
+        width: 400px;
+    }
+}
+
+.portfolio {
+    margin-top: 30px;
+}
+
+#title {
+    /*border-bottom: 1px solid #EF476F;*/
+    /*border-radius: 2px;*/
+    /*padding:2px 0px;*/
+}
+
+.portfolio-item {
+    width:240px;
+    border-top: 10px solid #424242;
+    border-bottom: 2px solid #424242;
+    border-left: 2px solid #424242;
+    border-right: 2px solid #424242;
+    border-radius: 2px;
 }
