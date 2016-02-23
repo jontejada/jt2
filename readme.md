@@ -1,4 +1,4 @@
-#(jontejada.com)[jontejada.com] personal site full rebuild work
+#[jontejada.com](jontejada.com) personal site full rebuild work
 
 ##Bootstrap 4 (new!)
 - will use Bootstrap v4.0.0-alpha.2 css (no JS)
